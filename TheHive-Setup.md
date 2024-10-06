@@ -1,4 +1,4 @@
-Specifications<br>
+## Specifications
 RAM: 8GB+ (Recommend 16 GB)<br>
 HDD: 50+ GB<br>
 OS: Ubuntu 22.04 LTS
