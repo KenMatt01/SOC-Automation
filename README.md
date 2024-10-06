@@ -5,7 +5,7 @@
 ### Enviornments
 
 - Windows 10
-- Linux Ubuntu Server LTS 20.0.4
+- Linux Ubuntu Servers LTS 20.0.4
 
 ### Language & Utilities
 
@@ -13,5 +13,6 @@
 - Wazuh
 - TheHive
 - Shuffle
+- SMTP EMAIL
 
 ### System Methodology
