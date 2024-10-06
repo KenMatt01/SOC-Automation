@@ -1,6 +1,7 @@
 # Installing Docker and Docker Compose on Ubuntu Server
 
 *Installing Docker & Docker compose is a pre-requisite*<br>
+<br>
 Step 1: Prepare the system for installation
 Before we can start installing docker & docker-compose we need to make sure that the system is up to date. You can do it by running the following commands:
 ```
