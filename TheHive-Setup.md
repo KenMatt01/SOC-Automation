@@ -1,6 +1,6 @@
-Specifications
-RAM: 8GB+ (Recommend 16 GB)
-HDD: 50+ GB
+Specifications<br>
+RAM: 8GB+ (Recommend 16 GB)<br>
+HDD: 50+ GB<br>
 OS: Ubuntu 22.04 LTS
 
 ## Installing TheHive 5
@@ -35,12 +35,6 @@ sudo apt update
 sudo apt install elasticsearch
 ```
 
-### ***OPTIONAL ELASTICSEARCH***
-Create a jvm.options file under /etc/elasticsearch/jvm.options.d and put the following configurations in that file.
--Dlog4j2.formatMsgNoLookups=true
--Xms2g
--Xmx2g
-
 ### Install TheHive
 ```
 wget -O- https://archives.strangebee.com/keys/strangebee.gpg | sudo gpg --dearmor -o /usr/share/keyrings/strangebee-archive-keyring.gpg
@@ -49,5 +43,5 @@ sudo apt-get update
 sudo apt-get install -y thehive
 ```
 
-Default Credentials on port 9000
+Default Credentials on port 9000<br>
 credentials are 'admin@thehive.local' with a password of 'secret'
