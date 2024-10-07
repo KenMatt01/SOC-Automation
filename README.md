@@ -45,3 +45,9 @@ Key Achievements:
 
 ### Prerequisites
 
+1. The entire project is done on-premise so install VMware or VirtualBox to setup virtual machines of the Windows 10 system & Ubuntu servers.
+2. Install Sysmon on the windows 10 VM.
+3. Follow through with the provided Setup files to install Wazuh, TheHive, & Shuffle on individual Ubuntu servers.
+4. Host an SMTP mail server via gmail. Shuffle will use this email to forward alerts to ur primary email.
+5. Downlaod [Mimikatz](https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919) on host machine to test attack scenarios.
+
